@@ -1,0 +1,98 @@
+<Environment>
+	
+	<Variable>
+		<Name>LoginUserName</Name>
+		<Value>Mercury</Value>
+	</Variable>
+
+	<Variable>
+		<Name>LoginPassword</Name>
+		<Value>45981945b8e755cf638969d0834fcc468ba2dfd4</Value>
+	</Variable>
+
+	<Variable>
+		<Name>FrameworkFolderPath</Name>
+		<Value>F:\QTPScripts\SampleProject</Value>
+	</Variable>
+
+	<Variable>
+		<Name>DataFolderPath</Name>
+		<Value>F:\QTPScripts\SampleProject\Data Dictionary</Value>
+	</Variable>
+
+	<Variable>
+		<Name>ResultsFolderPath</Name>
+		<Value>F:\QTPScripts\SampleProject\Execution Report</Value>
+	</Variable>
+
+	<Variable>
+		<Name>Region</Name>
+		<Value>UAT</Value>
+	</Variable>
+
+	<Variable>
+		<Name>UAT</Name>
+		<Value>http://newtours.demoaut.com/</Value>
+	</Variable>
+
+	<Variable>
+		<Name>ChangeBranch</Name>
+		<Value>YES</Value>
+	</Variable>
+
+	<Variable>
+		<Name>Release</Name>
+		<Value>Release1.1</Value>
+	</Variable>
+
+	<Variable>
+		<Name>MailCC</Name>
+		<Value>vkrmanubolu@gmail.com</Value>
+	</Variable>
+
+	<Variable>
+		<Name>MailTo</Name>
+		<Value>vkrmanubolu@gmail.com</Value>
+	</Variable>
+
+	<Variable>
+		<Name>Region</Name>
+		<Value>UAT</Value>
+	</Variable>
+
+	<Variable>
+		<Name>CaptureScreenShotforPass</Name>
+		<Value>NO</Value>
+	</Variable>
+
+	<Variable>
+		<Name>CaptureScreenShotforFail</Name>
+		<Value>YES</Value>
+	</Variable>
+
+	<Variable>
+		<Name>CaptureScreenShotforWarning</Name>
+		<Value>YES</Value>
+	</Variable>
+
+	<Variable>
+		<Name>ObjectTimeOut</Name>
+		<Value>10000</Value>
+	</Variable>
+
+	<Variable>
+		<Name>SyncTimeOut</Name>
+		<Value>20</Value>
+	</Variable>
+
+</Environment>
+
+
+
+
+
+
+
+
+
+
